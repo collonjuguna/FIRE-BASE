@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60727149134",
+    "project_id": "fir-storage-3380e",
+    "storage_bucket": "fir-storage-3380e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60727149134:android:7588b7fde06a3200aab91f",
+        "android_client_info": {
+          "package_name": "com.example.elimuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxlDYOsz9r8NSZrpr1dF_xfal_9_WygSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
